@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Guilherme, and I'm a Software Engineer based in Portugal.
+
+I enjoy building and designing ideas into functional software.
+
+I mostly work with Python, React, Tailwind, but I'm versed in much more technologies.
+
+Fun Facts:
+- I'm a big sports fan, mostly basketball
+- I enjoy artistic expression through music, drawing
+- I love animals, and have 2 cats, 2 dogs and a turtle
 <!--
 **gcarreira77/gcarreira77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
