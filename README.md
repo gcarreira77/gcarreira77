@@ -6,6 +6,11 @@ I enjoy building and designing ideas into functional software.
 
 I mostly work with Python, React, Tailwind, but I'm versed in much more technologies.
 
+Fun Facts:
+- I'm a big sports fan, mostly basketball
+- I enjoy artistic expression through music, drawing
+- I love animals, and have 2 cats, 2 dogs and a turtle
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilhermeruelacarreira/) 
