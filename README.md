@@ -10,6 +10,16 @@ Fun Facts:
 - I'm a big sports fan, mostly basketball
 - I enjoy artistic expression through music, drawing
 - I love animals, and have 2 cats, 2 dogs and a turtle
+
+- 🌐 Socials
+Instagram LinkedIn
+
+💻 Tech Stack
+C++ C AssemblyScript Java JavaScript Python Bash Script HTML5 CSS3 React React Router TailwindCSS Bootstrap DaisyUI Flask FastAPI JWT Swagger Postgres SQLite MongoDB Redis ApacheCassandra Neo4J Apache Kafka RabbitMQ Mosquitto NumPy Pandas Matplotlib scikit-learn TensorFlow Keras AWS Terraform Nginx GitHub Actions SonarQube Git GitHub GitLab Postman LaTeX Markdown
+
+📊 GitHub Stats
+
+
 <!--
 **gcarreira77/gcarreira77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
